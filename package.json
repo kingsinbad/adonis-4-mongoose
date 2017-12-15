@@ -1,0 +1,20 @@
+{
+  "name": "adonis-4-mongoose",
+  "version": "1.0.6",
+  "description": "Basic mongoose provider for Adonis 4.0",
+  "main": "provider/Mongoose.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "adonis 4.0",
+    "mongoose",
+    "adonisjs",
+    "mongodb"
+  ],
+  "dependencies": {
+    "mongoose": "^4.13.6"
+  },
+  "author": "King Sinbad",
+  "license": "ISC"
+}
